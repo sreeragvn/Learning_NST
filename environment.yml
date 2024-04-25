@@ -1,0 +1,18 @@
+name: fpds
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - tensorflow
+  - cudatoolkit
+  - tensorflow-gpu
+  - numpy
+  - cudnn
+  - pandas
+  - tensorflow-datasets
+  - seaborn
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - tensorflow-probability
+prefix: /home/vn/miniconda3/envs/fpds
